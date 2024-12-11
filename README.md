@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien Petit--Colboc</h1>
-<h3 align="center">French Student Engineer at CESI Rouen</h3>
+<h3 align="center">French CS engineer student at CESI Rouen</h3>
 
 - 🌱 I’m currently learning **C++**
 
