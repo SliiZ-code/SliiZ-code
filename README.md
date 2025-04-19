@@ -16,6 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,anaconda,sklearn,flutter,dart,html,css,js,arduino,docker,figma,blender,ae,pr,ps">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliiz-code&show_icons=true&locale=en&layout=compact" alt="sliiz-code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliiz-code&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" alt="sliiz-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sliiz-code&show_icons=true&locale=en" alt="sliiz-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sliiz-code&show_icons=true&locale=en&theme=catppuccin_mocha" alt="sliiz-code" /></p>
